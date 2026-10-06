@@ -1,0 +1,5 @@
+\\edu.local\public\studenthomes\25300730\Desktop\123\lesson7\obj\Debug\net10.0\lesson7.GeneratedMSBuildEditorConfig.editorconfig
+\\edu.local\public\studenthomes\25300730\Desktop\123\lesson7\obj\Debug\net10.0\lesson7.AssemblyInfoInputs.cache
+\\edu.local\public\studenthomes\25300730\Desktop\123\lesson7\obj\Debug\net10.0\lesson7.AssemblyInfo.cs
+\\edu.local\public\studenthomes\25300730\Desktop\123\lesson7\obj\Debug\net10.0\lesson7.csproj.CoreCompileInputs.cache
+\\edu.local\public\studenthomes\25300730\Desktop\123\lesson7\obj\Debug\net10.0\lesson7.sourcelink.json
